@@ -1,5 +1,12 @@
 # plang-python
-poc lang - python sdk
+  poc lang - python sdk
+  
+  哦,对了,忘记说了,因为我们目前解释器实现的语言是`python`，所以我打算起一个很响亮的中文名
+  
+  `素珍`
+  
+  参见`木兰`语言
+
 
 ## 诈尸
 
